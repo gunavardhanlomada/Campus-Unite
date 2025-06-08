@@ -1,0 +1,4 @@
+.bg-body-tertiary{
+    --bs-bg-opacity: 1;
+    background-color:rgba(225,235,238,1) 0% !important;
+}
