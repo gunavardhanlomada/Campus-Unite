@@ -23,8 +23,8 @@
 
   <h3>2. Clone the Repository</h3>
   <pre>
-git clone https://github.com/gunavardhanlomada/Volunteer-Verse
-cd Volunteer-Verse
+git clone https://github.com/gunavardhanlomada/Campus-Unite
+cd Campus-Unite
   </pre>
 
   <h3>3. Install Dependencies</h3>
@@ -51,7 +51,7 @@ npm start      # Start the server
 
   <h2>🔍 Notes</h2>
   <ul>
-    <li>The backend server typically runs on <code>http://localhost:8081/</code></li>
+    <li>The backend server typically runs on <code>http://localhost:8000/</code></li>
     <li>The frontend React app usually runs on <code>http://localhost:3000/</code></li>
     <li>Make sure MongoDB is running on the default port <code>27017</code> or update the MongoDB URI in the configuration.</li>
   </ul>
@@ -60,6 +60,6 @@ npm start      # Start the server
   <p>Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.</p>
 
   <h2>📄 License</h2>
-  <p>This project is open-source and available under the <a href="https://github.com/gunavardhanlomada/Volunteer-Verse/blob/main/LICENSE" target="_blank">MIT License</a>.</p>
+  <p>This project is open-source and available under the <a href="https://github.com/gunavardhanlomada/Campus-Unite/blob/main/LICENSE" target="_blank">MIT License</a>.</p>
 
 </div>
